@@ -45,7 +45,7 @@ Así verás en pantalla el amigo secreto que se le ha asignado a la persona que 
 Una vez se hayan sorteado todos los nombres de la lista, el sistema informará de dicha situación y el juego habrá finalizado:
 ![Alerta amigos sorteados](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.28.02.png)
 
-## Acceso al proyecto
+## 3. Acceso al proyecto
 
 Para utilizar la aplicación, solo es necesario presionar el link.
 
@@ -54,7 +54,7 @@ Para utilizar la aplicación, solo es necesario presionar el link.
 
 
 
-## Tecnologías utilizadas
+## 4. Tecnologías utilizadas
 
 Visual Studio Code
 Git and GitHub
