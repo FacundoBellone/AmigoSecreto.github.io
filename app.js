@@ -125,7 +125,7 @@ function reiniciarJuego() {
 function actualizarEstadoJuego() {
   const sortearBtn = document.getElementById("sortearBtn");
   sortearBtn.disabled = false;
-
+}
 // Evento para agregar amigo al presionar Enter
 document.getElementById("amigo").addEventListener("keypress", function (event) {
   if (event.key === "Enter") {
