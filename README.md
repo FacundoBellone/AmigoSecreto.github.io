@@ -17,43 +17,39 @@ Tan solo tenes que ingresar los nombres de los participantes y ya está*<br>
 ## 2. ¿Cómo funciona?
 
 Inicio
-![Pantalla inicial]()
+![Pantalla inicial](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.16.59.png)
 
 Añadir nombre
-![Escribir nombre]()
+![Escribir nombre](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.18.10.png)
 
 El nombre debe ser válido
-![Validez nombre]()
+![Validez nombre](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.18.30.png)
 
 Tienes que añadir mínimo tres nombres para poder jugar
-![Tres mínimo]()
+![Tres mínimo](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.25.51.png)
 
 Podras ver todos los nombres que has ingresado en una lista vertical:
-![Lista amigos]()
+![Lista amigos](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.26.29.png)
 
 Podras eliminarlos en caso de haber algún error
-![Eliminar amigos]()
+![Eliminar amigos](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.26.29.png)
 
 Una vez todos los nombres del grupo estén en la lista, cada uno podrá tomar el dispositivo y averiguar su amigo secreto que será asignado de manera aleatoria.
 
 Al presionar el botón de "Sortear amigo", aparecerá una alerta indicandole al usuario que antes de pasar el dispositivo haga click sobre el nombre sorteado. Así, solo quien haya sorteado el amigo conocerá quien es su "Amigo Secreto"
-![Sortear amigo]()
+![Sortear amigo](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.27.07.png)
 
 Así verás en pantalla el amigo secreto que se le ha asignado a la persona que presionó el botón en esta ocasión.
-![Amigo Secreto aleatorio]()
+![Amigo Secreto aleatorio](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.27.28.png)
 
 Una vez se hayan sorteado todos los nombres de la lista, el sistema informará de dicha situación y el juego habrá finalizado:
-![Alerta amigos sorteados]()
-
-Esta deberá ser la pantalla final:
-
-![Juego finalizado]()
+![Alerta amigos sorteados](https://github.com/FacundoBellone/AmigoSecreto.github.io/blob/main/assets/Captura%20de%20pantalla%202025-02-03%20a%20la(s)%2021.28.02.png)
 
 ## Acceso al proyecto
 
-Para utilizar la aplicación, solo es necesario descargar el repositorio completo y abrir el archivo llamado index.html en tu navegador web.
+Para utilizar la aplicación, solo es necesario presionar el link.
 
-![Open file]()
+![Open file](https://github.com/FacundoBellone/AmigoSecreto.github.io.git)
 
 Con un editor de texto podrás acceder a los archivos JavaScript, HTML y CSS donde se encuentra el código fuente.
 
