@@ -49,7 +49,7 @@ Una vez se hayan sorteado todos los nombres de la lista, el sistema informará d
 
 Para utilizar la aplicación, solo es necesario presionar el link.
 
-[![Abrir aplicación](https://facundobellone.github.io/AmigoSecreto.github.io/)](https://facundobellone.github.io/AmigoSecreto.github.io/)
+[[Abrir aplicación](https://facundobellone.github.io/AmigoSecreto.github.io/)](https://facundobellone.github.io/AmigoSecreto.github.io/)
 
 
 
