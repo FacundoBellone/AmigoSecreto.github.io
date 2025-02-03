@@ -114,7 +114,6 @@ function reiniciarJuego() {
   juegoIniciado = false;
   document.getElementById("agregarBtn").removeAttribute("disabled");
   document.getElementById("amigo").removeAttribute("disabled");
-  document.getElementById("sortearBtn").setAttribute("disabled", true);
   document.getElementById("listaAmigos").style.display = "block";
   document.getElementById("listaAmigos").innerHTML = "";
   document.querySelector("h2").textContent = "Digite el nombre de sus amigos";
@@ -125,12 +124,7 @@ function reiniciarJuego() {
 
 function actualizarEstadoJuego() {
   const sortearBtn = document.getElementById("sortearBtn");
-  if (listaAmigos.length >= 3) {
-    sortearBtn.removeAttribute("disabled");
-  } else {
-    sortearBtn.setAttribute("disabled", true);
-  }
-}
+  sortearBtn.disabled = false;
 
 // Evento para agregar amigo al presionar Enter
 document.getElementById("amigo").addEventListener("keypress", function (event) {
