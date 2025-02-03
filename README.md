@@ -49,7 +49,7 @@ Una vez se hayan sorteado todos los nombres de la lista, el sistema informará d
 
 Para utilizar la aplicación, solo es necesario presionar el link.
 
-![Open link](https://facundobellone.github.io/AmigoSecreto.github.io/)
+[![Abrir aplicación](https://facundobellone.github.io/AmigoSecreto.github.io/)](https://facundobellone.github.io/AmigoSecreto.github.io/)
 
 Con un editor de texto podrás acceder a los archivos JavaScript, HTML y CSS donde se encuentra el código fuente.
 
